@@ -1,0 +1,175 @@
+.http{
+    display:flex;
+    width: 400px;
+    height: 300px;
+    gap: 25px;
+}.sub{
+    display: flex;
+}
+.com{
+    display: flex;
+    gap: 20px;
+}.pik{
+    display: flex;
+    gap: 150px;
+}#first-image{
+    margin-left: 590px;
+    width:500px;
+    height:400px ;
+
+}.boby{
+    background-color: rgb(255, 179, 86);
+}.shop{
+    display: flex;
+    gap: 20px;
+    width: 400px;
+    height: 300px;
+}.wrds{
+    display: flex;
+    gap: 100px;
+}
+#vector{
+    width: 220px;
+    height: 200px;
+    gap: 90px;
+}
+#purple{
+    width: 300px;
+    height: 200px;
+}
+#brandeps{
+    width:200px;
+    height: 200px;
+}
+#journey{
+    width: 200px;
+    height: 200px;
+}#pini{
+    width: 200px;
+    height: 200px;
+}#tbn{
+    width: 200px;
+    height:160px ;
+}#hm{
+    width: 200px;
+    height: 200px;
+}#com{
+    width: 200px;
+    height: 200px;
+}#kar{
+    width: 200px;
+    height: 200px;
+}
+.gr{
+text-shadow: rgba(0, 0, 0, 0.774);
+}.container{
+    background-color: cornsilk;
+    border: solid pink;
+    width: 1600px;
+    border-radius: 20px;
+}.sac{
+    display: flex;
+    gap: 80px;
+}#wat{
+    width: 400px;
+    height: 380px;
+}.ret{
+    display: flex;
+}.rat{
+    display: flex;
+    gap: 80px;
+}#tbn{
+    width: 400px;
+    height: 380px;
+}.gr{
+    text-align: center;
+}.ty{
+    display: flex;
+    gap: 25px;
+}.bd{
+    display: flex;
+    gap: 25px;
+}.inner-container{
+    display: flex;
+    gap: 25px;
+}
+#first-image{
+    margin-bottom: 20px;
+    margin-top: -700px;
+    width: 600px;
+    height: 400px;
+
+
+}#pr{
+    width: 50px;
+    height: 50px;
+}.des{
+    display: flex;
+}.bv{
+    display: flex;
+    gap: 50px;
+}.xc{
+    text-align: center;
+}#sad{
+    width: 400px;
+    height: 300px;
+}#gf{
+    width: 15px;
+    height: 15px;
+}.tf{
+    display: flex;
+    gap: 500px;
+}#sat{
+    width: 30px;
+    height: 15px;
+}.zs{
+    display: flex;
+    gap: 300px;
+}#bt{
+    background-color: rgb(19, 18, 18);
+    border-radius: 20px;
+    border-width: 10px;
+    
+}#saf{
+    background-color: rgb(19, 18, 18);
+    border-radius: 20px;
+    border-width: 10px;   
+}#bv{
+    background-color: rgb(19, 18, 18);
+    border-radius: 20px;
+    border-width: 10px;    
+}a{
+    text-decoration: none;
+}#xc{
+    width: 30px;
+    height: 30px;
+    border-radius:10px;
+}#wrd{
+    border: dashed;
+}#fur{
+    width: 80px;
+    height:50px;
+}#za{
+    width: 130px;
+    height: 60px;
+}#hat{
+    width: 200px;
+    height: 80px;
+}.pit{
+    display: flex;
+    gap: 800px;
+}
+
+
+
+
+
+    
+
+
+
+    
+
+
+
+
